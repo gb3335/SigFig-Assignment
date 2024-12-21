@@ -54,11 +54,11 @@
 
 ##### Apple Mail - Mobile
 
-![Apple Mail](doc/mobile-apple-email.png)
+![Apple Mail](doc/mobile-apple-email.PNG)
 
 ##### Gmail - Mobile
 
-![Gmail](doc/mobile-gmail.png)
+![Gmail](doc/mobile-gmail.PNG)
 
 - These images help in ensuring that the email template displays correctly across different email clients and devices.
 - Email is sent and tested from [Brevo](https://www.brevo.com) platform.
