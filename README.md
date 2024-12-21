@@ -15,7 +15,7 @@
 
 ## Challenges faced
 
-- Email clients do not support external stylesheets, so I had to use inline styles.
+- Email clients do not support external stylesheets, so I had to use inline styles (as per requirements given).
 - Email clients do not support `:hover` pseudo class effect, so I had to use javascript to add hover effect to the button. [email clients do not support it also]
 - Email clients do not support `@media` queries, so I had to use table structure to make the email template responsive.
 - Faced the challenge to add mokup graphs in email and align it to right, So i created a simple graph using `p` tag and styled them using inline styles.
